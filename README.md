@@ -3,7 +3,7 @@
 ||Desenvolvedor Java Full Stack||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://github.com/MaiconFiuza)](https://github.com/MaiconFiuza)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://github.com/MaiconFiuza/)](https://github.com/MaiconFiuza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maicon.b.fiuza@gmail.com)](mailto:maicon.b.fiuza@gmail.com)
 
 #### Conhecimento nas linguagens:
@@ -24,7 +24,7 @@
 
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconFiuzaC&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MaiconFiuzaaC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MaiconFiuzaC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 
 <!--
