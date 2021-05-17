@@ -3,7 +3,7 @@
 ||Desenvolvedor Java Full Stack||
 
 #### Meus contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://github.com/MaiconFiuza/)](https://github.com/MaiconFiuza/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/maicon-fiuza)](www.linkedin.com/in/maicon-fiuza)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maicon.b.fiuza@gmail.com)](mailto:maicon.b.fiuza@gmail.com)
 
 #### Conhecimento nas linguagens:
