@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Back End ##
 
-- 👩‍💻 Engenheiro de Software na [Tok&Stok](https://www.tokstok.com.br)
+- 👩‍💻 Engenheiro de Software 
 - 🎓 Bacharel em Ciência da Computação pelo [CENTRO UNIVERSITÁRIO SUMARÉ](https://sumare.edu.br)
 - 🎓 Estudante de Pós graduação em Arquitetura e Desenvolvimento Java na [FIAP](https://postech.fiap.com.br)
 
